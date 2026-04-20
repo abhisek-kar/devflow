@@ -158,13 +158,3 @@ This project is open-source to:
 
 ---
 
-## API Usage Plan (for Grant)
-
-OpenAI API credits will be used to:
-- Power real-time code understanding and generation  
-- Enable debugging and error resolution workflows  
-- Build conversational developer interfaces  
-- Optimize prompt pipelines for efficiency  
-- Experiment with multi-step AI reasoning for dev tasks  
-
----
